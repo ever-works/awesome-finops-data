@@ -1,0 +1,13 @@
+name: "Harness Cloud Cost Management"
+description: "Cloud and Kubernetes cost management module within the Harness platform. Provides cost visibility, anomaly detection, and automated governance for cloud spend. Paid service with tiered plans."
+source_url: "https://harness.io/products/cloud-cost-management"
+category: "Cloud Cost Management"
+tags:
+  - "cloud-cost-management"
+  - "kubernetes-cost"
+  - "paid"
+  - "enterprise"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/harness.io.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://harness.io/products/cloud-cost-management>\n"
+updated_at: "2026-11-21 04:57"

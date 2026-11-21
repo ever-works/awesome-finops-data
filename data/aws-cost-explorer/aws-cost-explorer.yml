@@ -1,0 +1,13 @@
+name: "AWS Cost Explorer"
+description: "Native AWS tool for visualizing, understanding, and managing cloud costs and usage. Supports budgets, forecasts, and reservation coverage reports. Basic access is free; API usage may incur charges."
+source_url: "https://aws.amazon.com/aws-cost-management/aws-cost-explorer"
+category: "Cloud Cost Management"
+tags:
+  - "cloud-cost-management"
+  - "aws"
+  - "free-plan"
+  - "freemium"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/aws.amazon.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://aws.amazon.com/aws-cost-management/aws-cost-explorer>\n"
+updated_at: "2026-11-21 04:57"

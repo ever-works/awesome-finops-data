@@ -1,0 +1,13 @@
+name: "Densify"
+description: "Cloud and Kubernetes resource optimization platform that rightsizes workloads and manages commitments. Analyzes usage patterns to reduce cloud spend and improve efficiency. Paid enterprise solution."
+source_url: "https://www.densify.com/"
+category: "Commitment & Savings Automation"
+tags:
+  - "commitment-and-savings-automation"
+  - "kubernetes-cost"
+  - "paid"
+  - "enterprise"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/www.densify.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.densify.com/>\n"
+updated_at: "2026-11-21 04:57"

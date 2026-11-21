@@ -1,0 +1,12 @@
+- id: cloud-cost-management
+  name: "Cloud Cost Management"
+- id: kubernetes-cost
+  name: "Kubernetes Cost"
+- id: commitment-and-savings-automation
+  name: "Commitment & Savings Automation"
+- id: iac-cost-estimation
+  name: "IaC Cost Estimation"
+- id: open-source-finops
+  name: "Open-Source FinOps"
+- id: chargeback-and-billing
+  name: "Chargeback & Billing"

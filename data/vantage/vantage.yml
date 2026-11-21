@@ -1,0 +1,13 @@
+name: "Vantage"
+description: "Cloud cost management platform that centralizes AWS, Azure, GCP, and Kubernetes spend. Designed for engineering and finance teams to track budgets, anomalies, and unit costs. Offers a free tier and paid plans."
+source_url: "https://vantage.sh/"
+category: "Cloud Cost Management"
+tags:
+  - "cloud-cost-management"
+  - "multi-cloud"
+  - "freemium"
+  - "api"
+  - "enterprise"
+icon_url: "https://icons.duckduckgo.com/ip3/vantage.sh.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://vantage.sh/>\n"
+updated_at: "2026-11-21 04:57"

@@ -1,0 +1,13 @@
+name: "OpenCost"
+description: "Open source Kubernetes cost monitoring project under the CNCF. Provides real-time cost allocation and container cost metrics for self-hosted deployments. Free to use and community-driven."
+source_url: "https://www.opencost.io/"
+category: "Open-Source FinOps"
+tags:
+  - "kubernetes-cost"
+  - "open-source"
+  - "self-hosted"
+  - "free"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/www.opencost.io.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.opencost.io/>\n- Repository: <https://github.com/opencost/opencost>\n\nLicense: Apache 2.0.\n"
+updated_at: "2026-11-21 04:57"

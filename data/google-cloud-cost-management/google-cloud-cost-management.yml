@@ -1,0 +1,12 @@
+name: "Google Cloud Cost Management"
+description: "Google Cloud suite of tools for cost tracking, budgeting, and optimization. Provides detailed billing reports and cost allocation across GCP services. Free to use."
+source_url: "https://cloud.google.com/cost-management"
+category: "Cloud Cost Management"
+tags:
+  - "cloud-cost-management"
+  - "gcp"
+  - "free"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/cloud.google.com.ico"
+markdown: "## Pricing\n\nFree.\n\n## Links\n\n- Website: <https://cloud.google.com/cost-management>\n"
+updated_at: "2026-11-21 04:57"

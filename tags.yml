@@ -1,0 +1,44 @@
+- id: cloud-cost-management
+  name: "Cloud Cost Management"
+- id: multi-cloud
+  name: "Multi-Cloud"
+- id: freemium
+  name: "Freemium"
+- id: api
+  name: "API"
+- id: enterprise
+  name: "Enterprise"
+- id: saas-cogs
+  name: "SaaS COGS"
+- id: paid
+  name: "Paid"
+- id: ai-powered
+  name: "AI-Powered"
+- id: kubernetes-cost
+  name: "Kubernetes Cost"
+- id: kubernetes
+  name: "Kubernetes"
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: free
+  name: "Free"
+- id: iac-cost-estimation
+  name: "IaC Cost Estimation"
+- id: terraform
+  name: "Terraform"
+- id: free-plan
+  name: "Free Plan"
+- id: commitment-and-savings-automation
+  name: "Commitment & Savings Automation"
+- id: aws
+  name: "AWS"
+- id: chargeback-and-billing
+  name: "Chargeback & Billing"
+- id: azure
+  name: "Azure"
+- id: gcp
+  name: "GCP"
+- id: open-source-finops
+  name: "Open-Source FinOps"

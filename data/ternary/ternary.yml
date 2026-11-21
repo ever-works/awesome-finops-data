@@ -1,0 +1,13 @@
+name: "Ternary"
+description: "Multi-cloud cost management platform for AWS, Azure, and GCP. Provides cost allocation, anomaly detection, and budget tracking for finance and engineering teams. Paid enterprise offering."
+source_url: "https://www.ternary.com/"
+category: "Cloud Cost Management"
+tags:
+  - "cloud-cost-management"
+  - "multi-cloud"
+  - "paid"
+  - "enterprise"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/www.ternary.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.ternary.com/>\n"
+updated_at: "2026-11-21 04:57"
