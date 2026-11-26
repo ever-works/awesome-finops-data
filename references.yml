@@ -1,12 +1,54 @@
-- url: "https://www.finops.org/landscape/"
-  title: "finops.org — FinOps Landscape - FinOps Tools, Services & Training"
-- url: "https://www.softwaresuggest.com/cloud-cost-management-software"
-  title: "SoftwareSuggest — Cloud Cost Management Software"
-- url: "https://raw.githubusercontent.com/jmfontaine/awesome-finops/HEAD/README.md"
-  title: "GitHub list — jmfontaine/awesome-finops (127★)"
-- url: "https://raw.githubusercontent.com/cloudfinops/awesome-finops/HEAD/README.md"
-  title: "GitHub list — cloudfinops/awesome-finops (26★, stale)"
-- url: "https://github.com/ripienaar/free-for-dev#cloud-management-solutions"
-  title: "free-for-dev — section “Cloud management solutions”"
-- url: "https://github.com/topics/finops"
-  title: "GitHub topic — `finops` (2,844 repos)"
+- url: https://github.com/ripienaar/free-for-dev#cloud-management-solutions
+  normalized_url: https://github.com/ripienaar/free-for-dev
+  first_seen_at: 2026-11-26T13:46:22.923Z
+  last_attempted_at: 2026-11-26T13:46:22.923Z
+  last_success_at: 2026-11-26T13:46:22.923Z
+  status: success
+  items_created: 4
+  pipeline: agent-pipeline
+- url: https://github.com/topics/finops
+  normalized_url: https://github.com/topics/finops
+  first_seen_at: 2026-11-26T13:50:32.256Z
+  last_attempted_at: 2026-11-26T13:50:32.256Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://github.com/topics/finops"
+- url: https://platformengineering.org/blog/10-finops-tools-platform-engineers-should-evaluate-for-2026
+  normalized_url: https://platformengineering.org/blog/10-finops-tools-platform-engineers-should-evaluate-for-2026
+  first_seen_at: 2026-11-26T13:57:37.230Z
+  last_attempted_at: 2026-11-26T13:57:37.230Z
+  last_success_at: 2026-11-26T13:57:37.230Z
+  status: success
+  items_created: 6
+  pipeline: agent-pipeline
+- url: https://raw.githubusercontent.com/cloudfinops/awesome-finops/HEAD/README.md
+  normalized_url: https://raw.githubusercontent.com/cloudfinops/awesome-finops/HEAD/README.md
+  first_seen_at: 2026-11-26T13:29:22.504Z
+  last_attempted_at: 2026-11-26T13:29:22.504Z
+  last_success_at: 2026-11-26T13:29:22.504Z
+  status: success
+  items_created: 4
+  pipeline: agent-pipeline
+- url: https://raw.githubusercontent.com/jmfontaine/awesome-finops/HEAD/README.md
+  normalized_url: https://raw.githubusercontent.com/jmfontaine/awesome-finops/HEAD/README.md
+  first_seen_at: 2026-11-26T13:28:15.867Z
+  last_attempted_at: 2026-11-26T13:28:15.867Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Tavily
+  error: "No items retrieved from URL:
+    https://raw.githubusercontent.com/jmfontaine/awesome-finops/HEAD/README.md"
+- url: https://www.finops.org/landscape/
+  normalized_url: https://www.finops.org/landscape
+  first_seen_at: 2026-11-26T13:27:32.766Z
+  last_attempted_at: 2026-11-26T13:27:32.766Z
+  last_success_at: 2026-11-26T13:27:32.766Z
+  status: success
+  items_created: 1
+  pipeline: agent-pipeline
+- url: https://www.softwaresuggest.com/cloud-cost-management-software
+  title: SoftwareSuggest — Cloud Cost Management Software
+  normalized_url: https://www.softwaresuggest.com/cloud-cost-management-software

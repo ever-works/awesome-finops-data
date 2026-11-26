@@ -1,44 +1,72 @@
 - id: cloud-cost-management
-  name: "Cloud Cost Management"
+  name: Cloud Cost Management
 - id: multi-cloud
-  name: "Multi-Cloud"
+  name: Multi Cloud
 - id: freemium
-  name: "Freemium"
+  name: Freemium
 - id: api
-  name: "API"
+  name: Api
 - id: enterprise
-  name: "Enterprise"
+  name: Enterprise
 - id: saas-cogs
-  name: "SaaS COGS"
+  name: SaaS COGS
 - id: paid
-  name: "Paid"
+  name: Paid
 - id: ai-powered
-  name: "AI-Powered"
+  name: AI Powered
 - id: kubernetes-cost
-  name: "Kubernetes Cost"
+  name: Kubernetes Cost
 - id: kubernetes
-  name: "Kubernetes"
+  name: Kubernetes
 - id: open-source
-  name: "Open Source"
+  name: Open Source
 - id: self-hosted
-  name: "Self-Hosted"
+  name: Self Hosted
 - id: free
-  name: "Free"
+  name: Free
 - id: iac-cost-estimation
-  name: "IaC Cost Estimation"
+  name: IaC Cost Estimation
 - id: terraform
-  name: "Terraform"
+  name: Terraform
 - id: free-plan
-  name: "Free Plan"
+  name: Free Plan
 - id: commitment-and-savings-automation
-  name: "Commitment & Savings Automation"
+  name: Commitment & Savings Automation
 - id: aws
-  name: "AWS"
+  name: AWS
 - id: chargeback-and-billing
-  name: "Chargeback & Billing"
+  name: Chargeback And Billing
 - id: azure
-  name: "Azure"
+  name: Azure
 - id: gcp
-  name: "GCP"
+  name: GCP
 - id: open-source-finops
-  name: "Open-Source FinOps"
+  name: Open-Source FinOps
+- id: autonomous
+  name: Autonomous
+- id: savings-automation
+  name: Savings Automation
+- id: zero-integration
+  name: Zero Integration
+- id: cli
+  name: CLI
+- id: financial-governance
+  name: Financial Governance
+- id: observability
+  name: Observability
+- id: hybrid-cloud
+  name: Hybrid Cloud
+- id: infrastructure-as-code
+  name: Infrastructure As Code
+- id: natural-language
+  name: Natural Language
+- id: developer-first
+  name: Developer First
+- id: automation
+  name: Automation
+- id: itsm
+  name: ITSM
+- id: governance
+  name: Governance
+- id: approval-workflows
+  name: Approval Workflows
