@@ -1,0 +1,25 @@
+name: Apptio Cloudability
+description: Multi-cloud cost management and FinOps platform for cost
+  allocation, chargeback/showback, budgeting, and optimization across AWS,
+  Azure, and Google Cloud. Helps finance and engineering teams unify cloud spend
+  reporting and reduce waste. Enterprise paid solution acquired by IBM.
+source_url: https://www.apptio.com/products/cloudability
+category: Cloud Cost Management
+tags:
+  - cloud-cost-management
+  - chargeback-and-billing
+  - multi-cloud
+  - paid
+  - enterprise
+  - api
+featured: false
+markdown: |
+  ## Pricing
+
+  Paid. Enterprise-focused with custom pricing.
+
+  ## Links
+
+  - Website: <https://www.apptio.com/products/cloudability>
+brand: Apptio
+updated_at: 2026-11-26 13:59

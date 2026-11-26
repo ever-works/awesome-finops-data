@@ -1,0 +1,27 @@
+name: Replex
+description: Commercial FinOps platform for cloud cost management and visibility
+  across cloud providers.
+source_url: https://www.replex.io/technology
+category: Cloud Cost Management
+tags:
+  - paid
+  - enterprise
+  - api
+featured: false
+markdown: |-
+  ## Overview
+
+  Replex is a commercial FinOps platform for cloud cost management.
+
+  ## Features
+
+  - Cloud cost management across providers
+  - FinOps visibility and reporting
+
+  ## Pricing
+
+  Paid commercial product.
+brand: Replex
+brand_logo_url: ""
+images: []
+updated_at: 2026-11-26 13:59

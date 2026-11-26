@@ -1,0 +1,52 @@
+name: Parsivex
+description: Parsivex scans AWS accounts for idle EC2 instances, unattached EBS
+  volumes, oversized RDS databases, stale snapshots, and NAT gateway overuse.
+  The free tier provides a monthly scan for one AWS account and returns total
+  monthly waste plus a category breakdown. Paid plans provide access to itemized
+  findings and scheduled re-scans.
+source_url: https://parsivex.com
+category: Cloud Cost Management
+tags:
+  - Free Plan
+  - AWS
+  - CLI
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Parsivex is an AWS cost waste scanning service that identifies idle and
+  over-provisioned resources.
+
+
+  ## Features
+
+
+  - Scans for idle EC2 instances
+
+  - Detects unattached EBS volumes
+
+  - Identifies oversized RDS databases
+
+  - Finds stale snapshots
+
+  - Detects NAT gateway overuse
+
+  - Monthly waste totals with category breakdown
+
+
+  ## Pricing
+
+
+  - Free tier: monthly scan for one AWS account with total monthly waste and
+  category breakdown
+
+  - Paid plans: itemized findings and scheduled re-scans
+
+
+  ## Deployment
+
+
+  Cloud-based SaaS.
+brand: Parsivex
+updated_at: 2026-11-26 13:59

@@ -1,0 +1,42 @@
+name: kube-resource-report
+description: Open-source tool that reports Kubernetes cluster and pod resource
+  requests versus usage and generates static HTML reports for FinOps visibility.
+source_url: https://codeberg.org/hjacobs/kube-resource-report
+category: Open-Source FinOps
+tags:
+  - open-source
+  - kubernetes
+  - self-hosted
+featured: false
+markdown: >-
+  ## Overview
+
+
+  kube-resource-report is an open-source tool that reports Kubernetes cluster
+  and pod resource requests versus usage and generates static HTML reports.
+
+
+  ## Features
+
+
+  - Reports Kubernetes cluster and pod resource requests vs usage
+
+  - Generates static HTML reports
+
+  - Designed for Kubernetes cost visibility and FinOps reporting
+
+
+  ## Pricing
+
+
+  Free and open-source.
+
+
+  ## Deployment
+
+
+  Self-hosted; runs on Kubernetes clusters.
+brand: ""
+brand_logo_url: ""
+images: []
+updated_at: 2026-11-26 13:59

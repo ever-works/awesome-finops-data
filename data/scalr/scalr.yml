@@ -1,0 +1,49 @@
+name: Scalr
+description: Scalr is a Terraform Automation and Collaboration (TACO) product
+  used for collaboration and automation on infrastructure and configurations
+  managed by Terraform. It provides full Terraform CLI support, OPA integration,
+  and a hierarchical configuration model. All features are included with up to
+  50 runs per month free, and there is no SSO tax.
+source_url: https://scalr.com
+category: IaC Cost Estimation
+tags:
+  - Terraform
+  - Free Plan
+  - Automation
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Scalr is a Terraform automation and collaboration platform for managing
+  infrastructure as code at scale.
+
+
+  ## Features
+
+
+  - Full Terraform CLI support
+
+  - OPA (Open Policy Agent) integration
+
+  - Hierarchical configuration model
+
+  - Collaboration and automation for Terraform workflows
+
+  - No SSO tax; all features included
+
+
+  ## Pricing
+
+
+  - Free tier: up to 50 runs per month
+
+  - Paid tiers for higher run volumes and enterprise features
+
+
+  ## Deployment
+
+
+  Cloud-based SaaS.
+brand: Scalr
+updated_at: 2026-11-26 13:59

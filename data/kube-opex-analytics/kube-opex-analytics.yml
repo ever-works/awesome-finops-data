@@ -1,0 +1,42 @@
+name: kube-opex-analytics
+description: Open-source tool that helps organizations track the resources
+  consumed by their Kubernetes clusters to prevent overpaying.
+source_url: https://github.com/rchakode/kube-opex-analytics
+category: Open-Source FinOps
+tags:
+  - open-source
+  - kubernetes
+  - self-hosted
+featured: false
+markdown: >-
+  ## Overview
+
+
+  kube-opex-analytics is an open-source tool to help organizations track the
+  resources being consumed by their Kubernetes clusters to prevent overpaying.
+
+
+  ## Features
+
+
+  - Tracks resources consumed by Kubernetes clusters
+
+  - Supports Kubernetes cost monitoring and FinOps visibility
+
+  - Helps prevent cloud overpaying
+
+
+  ## Pricing
+
+
+  Free and open-source.
+
+
+  ## Deployment
+
+
+  Self-hosted; runs on Kubernetes clusters.
+brand: ""
+brand_logo_url: ""
+images: []
+updated_at: 2026-11-26 13:59
