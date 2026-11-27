@@ -15,6 +15,15 @@
   pipeline: agent-pipeline
   provider: Local (Readability)
   error: "No items retrieved from URL: https://github.com/topics/finops"
+- url: https://opencost.io
+  normalized_url: https://opencost.io/
+  first_seen_at: 2026-11-27T02:17:17.414Z
+  last_attempted_at: 2026-11-27T02:17:17.414Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://opencost.io"
 - url: https://platformengineering.org/blog/10-finops-tools-platform-engineers-should-evaluate-for-2026
   normalized_url: https://platformengineering.org/blog/10-finops-tools-platform-engineers-should-evaluate-for-2026
   first_seen_at: 2026-11-26T13:57:37.230Z
@@ -41,6 +50,15 @@
   provider: Tavily
   error: "No items retrieved from URL:
     https://raw.githubusercontent.com/jmfontaine/awesome-finops/HEAD/README.md"
+- url: https://www.cloudzero.com
+  normalized_url: https://www.cloudzero.com/
+  first_seen_at: 2026-11-27T02:16:35.650Z
+  last_attempted_at: 2026-11-27T02:16:35.650Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://www.cloudzero.com"
 - url: https://www.finops.org/landscape/
   normalized_url: https://www.finops.org/landscape
   first_seen_at: 2026-11-26T13:27:32.766Z
@@ -49,6 +67,56 @@
   status: success
   items_created: 1
   pipeline: agent-pipeline
+- url: https://www.infracost.io
+  normalized_url: https://www.infracost.io/
+  first_seen_at: 2026-11-27T02:18:01.828Z
+  last_attempted_at: 2026-11-27T02:18:01.828Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://www.infracost.io"
+- url: https://www.kubecost.com
+  normalized_url: https://www.kubecost.com/
+  first_seen_at: 2026-11-27T02:16:58.133Z
+  last_attempted_at: 2026-11-27T02:16:58.133Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://www.kubecost.com"
+- url: https://www.nops.io
+  normalized_url: https://www.nops.io/
+  first_seen_at: 2026-11-27T02:18:40.570Z
+  last_attempted_at: 2026-11-27T02:18:40.570Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://www.nops.io"
+- url: https://www.prosperops.com
+  normalized_url: https://www.prosperops.com/
+  first_seen_at: 2026-11-27T02:18:21.570Z
+  last_attempted_at: 2026-11-27T02:18:21.570Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://www.prosperops.com"
 - url: https://www.softwaresuggest.com/cloud-cost-management-software
-  title: SoftwareSuggest — Cloud Cost Management Software
   normalized_url: https://www.softwaresuggest.com/cloud-cost-management-software
+  first_seen_at: 2026-11-27T02:15:36.376Z
+  last_attempted_at: 2026-11-27T02:15:36.376Z
+  last_success_at: 2026-11-27T02:15:36.376Z
+  status: success
+  items_created: 5
+  pipeline: agent-pipeline
+- url: https://www.vantage.sh
+  normalized_url: https://www.vantage.sh/
+  first_seen_at: 2026-11-27T02:16:03.911Z
+  last_attempted_at: 2026-11-27T02:16:03.911Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://www.vantage.sh"

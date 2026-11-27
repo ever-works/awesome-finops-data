@@ -70,3 +70,15 @@
   name: Governance
 - id: approval-workflows
   name: Approval Workflows
+- id: infrastructure-optimization
+  name: Infrastructure Optimization
+- id: chargeback
+  name: Chargeback
+- id: cost-allocation
+  name: Cost Allocation
+- id: cost-tagging
+  name: Cost Tagging
+- id: showback
+  name: Showback
+- id: ai-costs
+  name: AI Costs
